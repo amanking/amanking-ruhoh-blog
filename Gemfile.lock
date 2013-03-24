@@ -1,0 +1,27 @@
+GIT
+  remote: /Users/aking/Projects/oss/amanking/github/ruhoh
+  revision: e2195c3ecf28f9e156716de7ca022795fe271fb6
+  specs:
+    ruhoh (2.0.alpha.3)
+      directory_watcher (~> 1.4)
+      mustache (~> 0.99)
+      nokogiri (~> 1.5)
+      rack (~> 1.4)
+      redcarpet (~> 2.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    directory_watcher (1.5.1)
+    mustache (0.99.4)
+    nokogiri (1.5.9)
+    psych (1.3.4)
+    rack (1.5.2)
+    redcarpet (2.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  psych (~> 1.3)
+  ruhoh!

@@ -1,0 +1,1 @@
+This is the static blog generator that powers [amanking.github.com](http://amanking.github.com). It uses [Ruhoh 2.0](http://ruhoh.com/) and a custom theme based on [twitter bootstrap](http://twitter.github.com/bootstrap).

@@ -1,0 +1,20 @@
+{{# config}}
+  <script>
+    $(document).ready(function() {
+      $(".searchbox .search-btn").click(function() {
+        $(this).parents("form").submit();
+      });
+    });
+  </script>
+  <form action="{{action}}" method="{{method}}" class="form-search searchbox">
+    <div class="input-append">
+      <fieldset role="search">
+        {{# hidden}}
+          <input type="hidden" name="{{name}}" value="{{value}}">
+        {{/ hidden}}
+        <input class="query span2" type="text" name="{{query_parameter_name}}" placeholder="{{placeholder}}">
+        <span class="search-btn add-on"><i class="icon-search"></i></span>
+      </fieldset>
+    </div>
+  </form>
+{{/ config}}

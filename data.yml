@@ -1,0 +1,19 @@
+title : Aman King
+tagline : "Thoughts on software, teams, and individuals"
+author :
+  name : Aman King
+  email : amanking@yahoo.com
+  github : amanking
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - index.html
+  - about-me.md
+
+sidebars :
+  searchbox : true
+  rss : true
+  about : true
+  tags : true
+  archives : true

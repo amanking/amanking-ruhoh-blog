@@ -1,0 +1,42 @@
+---
+title: Blog
+description:
+layout: index
+---
+
+{{# posts.paginator }}
+  <div class="post summary">
+    <div class="text">
+      <h3 class="title"><a href="{{url}}">{{title}}</a></h3>
+      <div class="date muted">{{date}}</div>
+
+      <div class="content">
+        {{{ summary }}}
+      </div>
+    </div>
+    <div class="controls clearfix">
+      <ul class="tag_box inline">
+        <li><i class="icon-tags"></i></li>
+        {{# tags }}
+          {{> tags_list }}
+        {{/ tags }}
+      </ul>
+      <div class="more">
+        <small><a href="{{url}}" class="muted">Read more</a></small>
+      </div>
+    </div>
+  </div>
+{{/ posts.paginator }}
+
+<div class="pagination">
+  <ul>
+  {{#posts.paginator_navigation}}
+    {{#is_active_page}}
+      <li class="active"><a href="{{url}}">{{name}}</a></li>
+    {{/is_active_page}}
+    {{^is_active_page}}
+      <li><a href="{{url}}">{{name}}</a></li>
+    {{/is_active_page}}
+  {{/posts.paginator_navigation}}
+  </ul>
+</div>
