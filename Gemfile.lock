@@ -1,6 +1,6 @@
 GIT
   remote: /Users/aking/Projects/oss/amanking/github/ruhoh
-  revision: e2195c3ecf28f9e156716de7ca022795fe271fb6
+  revision: 30c48cccb88bab09ded491bfefb66f1db48d7c79
   specs:
     ruhoh (2.0.alpha.3)
       directory_watcher (~> 1.4)
