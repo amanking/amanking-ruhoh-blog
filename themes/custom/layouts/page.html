@@ -7,6 +7,6 @@ layout : default
 </div>
 {{/ display_page_header}}
 
-<div class="text">
+{{^ without_text_wrap}}<div class="text">{{/ without_text_wrap}}
   {{{ page.content }}}
-</div>
+{{^ without_text_wrap}}</div>{{/ without_text_wrap}}
