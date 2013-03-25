@@ -15,12 +15,14 @@ The projects are typically web applications or web services. We often use **Java
 
 I also work for clients as an **Agile Coach**. I have coached teams with sizes ranging from 7 to 30.
 
-Besides my primary roles of Tech Lead or Agile Coach, I spend time conducting trainings, presenting in conferences, writing on technical topics, and working on open source software.
+Besides my primary roles of Tech Lead and Agile Coach, I spend time conducting trainings, speaking at conferences, writing on technical topics, and working on open source software.
 
-For more information:
+Find me at:
 
 * [LinkedIn](http://www.linkedin.com/in/amanking)
 * [BitBucket](http://bitbucket.org/amanking)
 * [GitHub](http://github.com/amanking)
 * [SlideShare](http://www.slideshare.net/amanking)
 * [ThoughtWorks](http://join.thoughtworks.com/profiles/aman-king)
+
+Email me at *my last name @ my full name dot com*
