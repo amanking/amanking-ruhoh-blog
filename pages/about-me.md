@@ -15,7 +15,7 @@ The projects are typically web applications or web services. We often use **Java
 
 I also work for clients as an **Agile Coach**. I have coached teams with sizes ranging from 7 to 30.
 
-Besides my primary roles of Tech Lead and Agile Coach, I spend time conducting trainings, speaking at conferences, writing on technical topics, and working on open source software.
+In addition to playing Tech Lead and Agile Coach, I spend time conducting trainings, speaking at conferences, writing on technical topics, and working on open source software.
 
 Find me at:
 

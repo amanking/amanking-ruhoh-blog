@@ -1,7 +1,7 @@
 img[alt='profile picture'] {
   float: right;
-  width: 200;
-  height: 200;
+  width: 200px;
+  height: 200px;
   margin-left: 30px;
 }
 
