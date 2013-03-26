@@ -19,10 +19,10 @@ In addition to playing Tech Lead and Agile Coach, I spend time conducting traini
 
 Find me at:
 
-* [LinkedIn](http://www.linkedin.com/in/amanking)
-* [BitBucket](http://bitbucket.org/amanking)
-* [GitHub](http://github.com/amanking)
-* [SlideShare](http://www.slideshare.net/amanking)
+* [LinkedIn](http://www.linkedin.com/in/{{data.author.linkedin}})
+* [BitBucket](http://bitbucket.org/{{data.author.bitbucket}})
+* [GitHub](http://github.com/{{data.author.github}})
+* [SlideShare](http://www.slideshare.net/{{data.author.slideshare}})
 * [ThoughtWorks](http://join.thoughtworks.com/profiles/aman-king)
 
 Email me at *my last name @ my full name dot com*
