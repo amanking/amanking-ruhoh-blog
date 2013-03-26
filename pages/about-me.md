@@ -25,4 +25,4 @@ Find me at:
 * [SlideShare](http://www.slideshare.net/amanking)
 * [ThoughtWorks](http://join.thoughtworks.com/profiles/aman-king)
 
-<!-- Email me at *my last name @ my full name dot com* -->
+Email me at *my last name @ my full name dot com*
