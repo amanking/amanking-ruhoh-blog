@@ -122,8 +122,19 @@ hr {
   margin: -25px 0px 40px 0px;
 }
 .sidebar .rss .rss-icon {
-  margin-top: -2px;
+  float: left;
+  width: 32px;
+  height: 32px;
+  margin: 5px 10px 0px 0px;
 }
-.sidebar .rss .rss-link {
+.sidebar .rss .rss-icon img {
+  width: 32px;
+  height: 32px;
+}
+.sidebar .rss .rss-links {
+  float: left;
+  width: auto;
+}
+.sidebar .rss .rss-links a {
   color: inherit;
 }
