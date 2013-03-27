@@ -43,6 +43,10 @@ hr {
   font-size: large;
 }
 
+.nav-tabs>.active>a, .nav-tabs>.active>a:hover{
+  cursor: auto;
+}
+
 .content {
   font-size: larger;
 }
