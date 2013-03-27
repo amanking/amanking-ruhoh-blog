@@ -1,5 +1,5 @@
 body {
-  padding-bottom: 40px;
+  padding-bottom: 10px;
 }
 
 hr {
@@ -137,4 +137,15 @@ hr {
 }
 .sidebar .rss .rss-links a {
   color: inherit;
+}
+
+.footer .copyright {
+  text-align: left;
+  float: left;
+  width: 250px;
+}
+.footer .powered_by {
+  text-align: right;
+  float: right;
+  width: 250px;
 }
