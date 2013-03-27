@@ -2,6 +2,10 @@ body {
   padding-bottom: 10px;
 }
 
+li {
+  line-height: 25px;
+}
+
 hr {
   clear: both;
   height: 1px;
@@ -96,6 +100,11 @@ hr {
 
 .sidebar .sidebar-widget {
   margin-bottom: 40px;
+}
+
+.sidebar li {
+  line-height: 15px;
+  font-size: small;
 }
 
 .sidebar .searchbox input.query {
