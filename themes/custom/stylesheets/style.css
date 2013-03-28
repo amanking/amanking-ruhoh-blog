@@ -102,6 +102,11 @@ hr {
   color:#FFF;
 }
 
+.sidebar .tag_box li {
+  line-height: 28px;
+  font-size: inherit;
+}
+
 .sidebar .sidebar-widget {
   margin-bottom: 40px;
 }
