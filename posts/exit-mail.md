@@ -1,5 +1,5 @@
 ---
-title:
+title: Exit mail
 date: '2013-03-31'
 description:
 tags: [ organizations, people, personal ]
