@@ -4,6 +4,6 @@ method: get
 hidden:
   -
       name: q
-      value: site:amanking.github.com
+      value: site:amanking.com
 query_parameter_name: q
 placeholder: Search
