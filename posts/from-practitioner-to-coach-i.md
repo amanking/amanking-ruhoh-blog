@@ -24,14 +24,14 @@ This is a difficult question to answer at the onset of any Agile enablement unde
 
 > We are done coaching a team when team members are capable of coaching others.
 
-The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, not even to long-time practitioners. One needs certain qualities and skills that require further grooming. We'll talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.
+The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, not even to long-time practitioners. One needs certain qualities and skills that require further grooming. We will talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.
 
 *How can producing internal coaches benefit Agile transformation?*
 ------------------------------
 
-Let us look at a simple illustration.
+Here is a simple illustration.
 
-Fincorp Ltd is an organization looking at Agile transformation. They have multiple co-located teams. They hire an Agile Coach, named <span style="color:orange">Jake</span>, to help them on their Agile journey.
+FakeFincorp Ltd is an organization looking at Agile transformation. They have multiple co-located teams. They hire an Agile Coach, named <span style="color:orange">Jake</span>, to help them on their Agile journey.
 
 Note: in the diagrams below, the <span style="color:orange">orange</span> circle represents the external coach; the <span style="color:blue">blue</span> circles represent team members; the <span style="color:#0C0">green</span> circles represent team members who are ready to transition into a coaching role.
 
@@ -51,7 +51,7 @@ Having spent considerable time with a particular team, <span style="color:orange
 
 <img alt="step 3" src="{{urls.media}}/images/from-practitioner-to-coach-i/agile-transformation-step03.png" style="width: 400px; height: auto;">
 
-Confident of <span style="color:#0C0">John</span>'s coaching ability, <span style="color:orange">Jake</span> pulls <span style="color:#0C0">Jane</span> and himself out of the team, leaving <span style="color:#0C0">John</span> in charge of sustaining the Agile mindset and practices in that team. Capacity is adjusted by bringing fresh members into the team. <span style="color:orange">Jake</span> and <span style="color:#0C0">Jane</span> together move into the next team that will undergo Agile coaching. <span style="color:#0C0">Jane</span> works as a team member but continues to focus on picking up coaching skills. <span style="color:orange">Jake</span> balances coaching the new team actively along with his coach-the-coach approach for <span style="color:#0C0">Jane</span>. Every now and then, he would allow <span style="color:#0C0">Jane</span> to take a lead in coaching.
+Confident of <span style="color:#0C0">John</span>'s coaching ability, <span style="color:orange">Jake</span> pulls <span style="color:#0C0">Jane</span> and himself out of the team, leaving <span style="color:#0C0">John</span> in charge of sustaining the Agile mindset and practices in that team. Capacity is adjusted by bringing fresh members into the team. <span style="color:orange">Jake</span> and <span style="color:#0C0">Jane</span> together move into the next team that will undergo Agile coaching. <span style="color:#0C0">Jane</span> works as a team member but continues to focus on picking up coaching skills. <span style="color:orange">Jake</span> balances coaching the new team actively along with his coach-the-coach approach for <span style="color:#0C0">Jane</span>. Every now and then, he allows <span style="color:#0C0">Jane</span> to take a lead in coaching.
 
 ### Step 4
 
@@ -75,10 +75,10 @@ After a point, <span style="color:orange">Jake</span>'s role becomes more of a s
 
 <img alt="step 7" src="{{urls.media}}/images/from-practitioner-to-coach-i/agile-transformation-step07.png" style="width: 400px; height: auto;">
 
-At some stage, when both Fincorp Ltd and the external Agile Coach agree, the Agile transformation can be deemed complete, and the remaining work of sustaining it and evolving it can be carried on internally.
+At some stage, when both FakeFincorp Ltd and the external Agile Coach agree, the Agile transformation can be deemed complete, and the remaining work of sustaining it and evolving it can be carried on internally.
 
 ### Disclaimer
 
-The above is an over-simplification that highlights the basic tenets of this strategy. Creating capable internal coaches will be more difficult in some teams than another. It will also not happen overnight. Sometimes even good internal coaches do not have enough experience to guide teams under difficult circumstances. A structured support system is needed for such an initiative to be successful.
+The above is an over-simplification that highlights the basic tenets of this strategy. Creating capable internal coaches will be more difficult in some teams than others. It will also not happen overnight. Sometimes even good internal coaches do not have enough experience to guide teams under difficult circumstances. A structured support system is needed for such an initiative to be successful.
 
 We will go deeper into these details in subsequent articles. Until then, stay tuned!
