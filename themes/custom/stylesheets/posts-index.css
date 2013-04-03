@@ -1,21 +1,18 @@
 .post.summary {
   margin-bottom: 40px;
 }
-.post.summary h3.title {
+.post.summary .title {
   position:relative;
 }
-.post.summary h3.title a {
+.post.summary .title a {
   color: inherit;
 }
 .post.summary .date {
   font-size: smaller;
-  margin-top: -20px;
+  margin-top: -15px;
 }
 .post.summary .content {
   margin: 20px 0px;
-}
-.post.summary .controls {
-  font-size: smaller;
 }
 .post.summary .controls .tag_box {
   font-size: smaller;

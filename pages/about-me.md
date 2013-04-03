@@ -1,10 +1,9 @@
 ---
 title : About Me
 description:
-layout: about-me
 ---
 
-![profile picture]({{urls.media}}/images/about-me/aman-king-medium.jpg)
+<img alt="profile picture" src="{{urls.media}}/images/about-me/aman-king-medium.jpg" style="float: right; width: 200px; height: 200px; margin-left: 20px; margin-bottom: 20px;">
 
 My name is **Aman King**. I am a technologist at [ThoughtWorks][], working as Lead Consultant.
 [ThoughtWorks]: http://www.thoughtworks.com
