@@ -24,7 +24,7 @@ This is a difficult question to answer at the onset of any Agile enablement unde
 
 > We are done coaching a team when team members are capable of coaching others.
 
-The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress well as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, even to long-time practitioners: one needs certain qualities and skills that require further grooming. We'll talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.
+The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, not even to long-time practitioners. One needs certain qualities and skills that require further grooming. We'll talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.
 
 *How can producing internal coaches benefit Agile transformation?*
 ------------------------------
@@ -33,7 +33,7 @@ Let us look at a simple illustration.
 
 Fincorp Ltd is an organization looking at Agile transformation. They have multiple co-located teams. They hire an Agile Coach, named <span style="color:orange">Jake</span>, to help them on their Agile journey.
 
-Note: in the diagrams below, the <span style="color:orange">orange</span> circle represents the external coach; the <span style="color:blue">blue</span> circles represent team members; the <span style="color:green">green</span> circles represent team members who are ready to transition into a coaching role.
+Note: in the diagrams below, the <span style="color:orange">orange</span> circle represents the external coach; the <span style="color:blue">blue</span> circles represent team members; the <span style="color:#0C0">green</span> circles represent team members who are ready to transition into a coaching role.
 
 ### Step 1
 
@@ -45,13 +45,13 @@ Note: in the diagrams below, the <span style="color:orange">orange</span> circle
 
 <img alt="step 2" src="{{urls.media}}/images/from-practitioner-to-coach-i/agile-transformation-step02.png" style="width: 400px; height: auto;">
 
-Having spent considerable time with a particular team, <span style="color:orange">Jake</span> gets a sense of the various team members' strengths. He identifies two individuals, <span style="color:green">John</span> and <span style="color:green">Jane</span>, who demonstrate the appropriate qualities for a coaching role. He now gears his coaching style towards a "coach the coach" approach, focusing on these individuals. Over a short duration, <span style="color:green">John</span> picks up coaching skills comfortably while <span style="color:green">Jane</span> can use more mentoring on the coaching aspects.
+Having spent considerable time with a particular team, <span style="color:orange">Jake</span> gets a sense of the various team members' strengths. He identifies two individuals, <span style="color:#0C0">John</span> and <span style="color:#0C0">Jane</span>, who demonstrate qualities suitable for a coaching role. He now gears his coaching style towards a coach-the-coach approach, focusing on these individuals. Over a short duration, <span style="color:#0C0">John</span> picks up coaching skills comfortably while <span style="color:#0C0">Jane</span> could use more mentoring on the coaching aspects.
 
 ### Step 3
 
 <img alt="step 3" src="{{urls.media}}/images/from-practitioner-to-coach-i/agile-transformation-step03.png" style="width: 400px; height: auto;">
 
-Confident of <span style="color:green">John</span>'s coaching ability, <span style="color:orange">Jake</span> pulls <span style="color:green">Jane</span> and himself out of the team, leaving <span style="color:green">John</span> in charge of sustaining the Agile mindset and practices in that team. For capacity reasons, <span style="color:green">Jane</span> is replaced by a person from another team. <span style="color:orange">Jake</span> and <span style="color:green">Jane</span> together move into the next team to undergo Agile coaching. <span style="color:green">Jane</span> works as a team member but continues to focus on picking up coaching skills. <span style="color:orange">Jake</span> balances coaching the new team actively along with his "coach the coach" approach for <span style="color:green">Jane</span>. Every now and then, he'd allow <span style="color:green">Jane</span> to take a lead.
+Confident of <span style="color:#0C0">John</span>'s coaching ability, <span style="color:orange">Jake</span> pulls <span style="color:#0C0">Jane</span> and himself out of the team, leaving <span style="color:#0C0">John</span> in charge of sustaining the Agile mindset and practices in that team. Capacity is adjusted by bringing fresh members into the team. <span style="color:orange">Jake</span> and <span style="color:#0C0">Jane</span> together move into the next team that will undergo Agile coaching. <span style="color:#0C0">Jane</span> works as a team member but continues to focus on picking up coaching skills. <span style="color:orange">Jake</span> balances coaching the new team actively along with his coach-the-coach approach for <span style="color:#0C0">Jane</span>. Every now and then, he would allow <span style="color:#0C0">Jane</span> to take a lead in coaching.
 
 ### Step 4
 
@@ -63,13 +63,13 @@ Over time, another practitioner in the new team seems to emerge as a potential c
 
 <img alt="step 5" src="{{urls.media}}/images/from-practitioner-to-coach-i/agile-transformation-step05.png" style="width: 400px; height: auto;">
 
-Like before, when the time is right, <span style="color:orange">Jake</span> moves out of the team with the new potential coach, leaving a more confident <span style="color:green">Jane</span> in charge of the previous team. The approach continues across multiple teams.
+Like before, when the time is right, <span style="color:orange">Jake</span> moves out of the team with the new potential coach, leaving a more confident <span style="color:#0C0">Jane</span> in charge of the previous team. The approach continues across multiple teams.
 
 ### Step 6
 
 <img alt="step 6" src="{{urls.media}}/images/from-practitioner-to-coach-i/agile-transformation-step06.png" style="width: 400px; height: auto;">
 
-After a point, <span style="color:orange">Jake</span>'s role becomes more of a specialist or expert consultant that the internal coaches leverage. <span style="color:orange">Jake</span> can oversee the progress of the internal coaches and provide guidance where required. Most of the changes are now channelized through the internal coaches on the ground.
+After a point, <span style="color:orange">Jake</span>'s role becomes more of a specialist or expert consultant that the internal coaches leverage. <span style="color:orange">Jake</span> oversees the progress of the internal coaches and provides guidance where required. Most of the changes are now channelized through the internal coaches on the ground.
 
 ### Step 7
 
@@ -79,6 +79,6 @@ At some stage, when both Fincorp Ltd and the external Agile Coach agree, the Agi
 
 ### Disclaimer
 
-The above is an over-simplification that highlights the basic tenants of this strategy. Creating capable internal coaches will be more difficult in some teams than another. It will also not happen overnight. Sometimes even good internal coaches do not have enough experience to guide teams under difficult circumstances. There is a need for a structured support system for such an initiative to be successful.
+The above is an over-simplification that highlights the basic tenets of this strategy. Creating capable internal coaches will be more difficult in some teams than another. It will also not happen overnight. Sometimes even good internal coaches do not have enough experience to guide teams under difficult circumstances. A structured support system is needed for such an initiative to be successful.
 
-We will go deeper into these details in subsequent articles. Till then, stay tuned!
+We will go deeper into these details in subsequent articles. Until then, stay tuned!
