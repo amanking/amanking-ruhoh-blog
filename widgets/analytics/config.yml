@@ -1,3 +1,4 @@
 layout : google
 google :
     tracking_id : 'UA-39630728-1'
+    domain_name: amanking.com
