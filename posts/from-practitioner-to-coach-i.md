@@ -6,8 +6,6 @@ description:
 categories:
 tags: [ organizations, agile, transformation, coaching ]
 breadcrumbs: [ index.html ]
-
-type: draft
 ---
 
 For an organization to be successful at Agile transformation, one aspect that needs attention is self-sustenance. Having external coaches is useful as they bring in experience and a third-party perspective. Over time though, it makes sense to groom internal Agile practitioners as Agile champions, who can spread the mindset and practices further.
