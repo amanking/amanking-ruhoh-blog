@@ -19,7 +19,7 @@ Thinking about my reactions, I can tie them to the kind of person leaving:
 
 * **Team member:** These exit mails always get a *reply* from me. Having worked with someone, you develop a rapport, some mutual respect, and, on occasion, a camaraderie. How I feel about a team member can vary in degree, and a good measure of that is the effect their exit mail has on me.
 
-* **Friend:** Such an exit mail *hurts.* Most times I can anticipate its arrival because the person would keep me informed (it still hurts). Sometimes it can be a shock, if the decision was kept personal for whatever reason. But irrespective, it is a mail I dread. It has hardest to say goodbye to a friend. Each of these mails feels like one lost reason to come to office. But we move on. We have to. And we wish our friends well in their journey ahead.
+* **Friend:** Such an exit mail *hurts.* Most times I can anticipate its arrival because the person would keep me informed (it still hurts). Sometimes it can be a shock, if the decision was kept personal for whatever reason. But irrespective, it is a mail I dread. It is hardest to say goodbye to a friend. Each of these mails feels like one lost reason to come to office. But we move on. We have to. And we wish our friends well in their journey ahead.
 
 Exit mails make me think about what we hold dear in this much technical profession of ours. Yes, we appreciate our technology gurus. And we enjoy working with team members towards the common goal of client success. But most of all, we value the friends we make while accomplishing all this. I dedicate this post to such friends of mine.
 
