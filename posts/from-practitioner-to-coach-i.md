@@ -3,7 +3,6 @@ title: From Practitioner to Coach - I
 tagline: Laying the ground for Agile transformation
 date: '2013-04-03'
 description:
-categories:
 tags: [ organizations, agile, transformation, coaching ]
 breadcrumbs: [ index.html ]
 ---

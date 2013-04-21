@@ -2,7 +2,7 @@
 title: A fresh look and outlook
 date: '2013-03-27'
 description:
-tags: blog
+tags: [ blog ]
 breadcrumbs: [ index.html ]
 ---
 

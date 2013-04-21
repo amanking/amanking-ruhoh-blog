@@ -6,6 +6,10 @@ li {
   line-height: 25px;
 }
 
+ul,ol {
+  margin-bottom: 25px;
+}
+
 blockquote p {
   font-size: 14pt;
 }
