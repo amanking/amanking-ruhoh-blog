@@ -15,8 +15,17 @@
     <![endif]-->
 
     <!-- Le styles -->
-    {{{ stylesheets.all }}}
-    {{{ javascripts.all }}}
+    {{# stylesheets.load }}
+      bootstrap.min.css
+      posts-index.css
+      style.css
+      google_prettify/twitter-bootstrap.css
+    {{/ stylesheets.load }}
+
+    <!-- Le js -->
+    {{# javascripts.load }}
+      jquery-1.9.1.min.js
+    {{/ javascripts.load }}
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -40,9 +49,9 @@
       </div>
       <div class="row">
         <ul class="nav nav-tabs span12">
-          {{# data.navigation?to_pages }}
+          {{# data.navigation?to__root }}
             {{> pages_list }}
-          {{/ data.navigation?to_pages }}
+          {{/ data.navigation?to__root }}
         </ul>
       </div>
       <div class="row">

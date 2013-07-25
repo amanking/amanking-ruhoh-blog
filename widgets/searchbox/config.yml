@@ -1,9 +1,0 @@
-layout: twitter-bootstrap
-action: http://google.com/search
-method: get
-hidden:
-  -
-      name: q
-      value: site:amanking.com
-query_parameter_name: q
-placeholder: Search

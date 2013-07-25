@@ -3,7 +3,7 @@
 
 # This helps parsers (and hosting platforms) determine which version is needed to compile your site.
 # If you compile your blog yourself, setting this won't matter, but it's a nice thing to keep updated.
-RuhohSpec: "2.0.alpha"
+RuhohSpec: "2.2"
 
 # Used for things like RSS that need the full URL to a given resource.
 # This DOES NOT affect any of your paths or links in any way.
@@ -18,25 +18,59 @@ production_url: "http://www.amanking.com"
 # NOTE: base_path is never added in development mode (for convenience).
 base_path: "/"
 
-theme:
-  name: "custom"
+professional_white:
+  use: theme
 
 posts:
+  sort: ["date", "desc"]
   permalink: "/:title/"
   summary_lines: 15
   latest: 5
+  rss:
+    enable: true
+    limit: 5
+    # The url to prepend to the rss.xml feed, e.g.: /posts/rss.xml
+    # Defaults to: "/<resource_name>/"
+    # Always start with a forward slash, as ruhoh will internally respect any base_path you set.
+    # url: "/posts/"
+  paginator:
+    enable: true
+    # The url your paginated pages will be located: e.g /posts/index/1, /posts/index/2, /posts/index/3
+    # Always start with a forward slash, as ruhoh will internally respect any base_path you set.
+    url: "/posts/index/"
+    per_page: 2
+    # Set the custom page you want page#1 of your posts paginator to link to. (default: /posts/index/1)
+    # Note the default is technically <paginator.url>/1 just as the other paginated pages.
+    # It is up to you to display the paginator_pagination links somewhere in this case.
+    #
+    # root_page has been set to the root for a more traditional style blog feel.
+    root_page: '/'
 
 pages:
+  layout: default
   summary_lines: 15
+  rss:
+    enable: false
+  paginator:
+    enable: false
 
-paginator:
-  # The namespace your paginated pages will be located: e.g /posts/1, /posts/2, /posts/3
-  # Always start with a forward slash, as ruhoh will internally respect any base_path you set.
-  namespace: "/posts/"
-  per_page: 10
-  # Set the custom page you want page#1 of your posts paginator to link to. (default: /posts/1)
-  # Note the default is technically <paginator.namespace>/1 just as the other paginated pages.
-  # It is up to you to display the paginator_pagination links somewhere in this case.
-  #
-  # root_page has been set to the root for a more traditional style blog feel.
-  root_page: '/'
+widgets :
+  analytics :
+    use: google
+    tracking_id: 'UA-39630728-1'
+    domain_name: amanking.com
+  comments :
+    use : disqus
+    short_name : amanking
+  google_prettify :
+    use : overloaded
+    linenums : true
+  searchbox :
+    action: http://google.com/search
+    method: get
+    hidden:
+      -
+          name: q
+          value: site:amanking.com
+    query_parameter_name: q
+    placeholder: Search
