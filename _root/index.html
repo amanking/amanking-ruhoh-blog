@@ -4,7 +4,7 @@ description: Thoughts on software, teams, and individuals, from an Agile Technol
 without_text_wrap: true
 ---
 
-{{# posts.paginator }}
+{{# posts.all }}
   <div class="post summary">
     <div class="text">
       <h1 class="title"><a href="{{url}}">{{title}}</a></h1>
@@ -26,17 +26,4 @@ without_text_wrap: true
       </div>
     </div>
   </div>
-{{/ posts.paginator }}
-
-<div class="pagination">
-  <ul>
-  {{#posts.paginator_navigation}}
-    {{#is_active_page}}
-      <li class="active"><a href="{{url}}">{{name}}</a></li>
-    {{/is_active_page}}
-    {{^is_active_page}}
-      <li><a href="{{url}}">{{name}}</a></li>
-    {{/is_active_page}}
-  {{/posts.paginator_navigation}}
-  </ul>
-</div>
+{{/ posts.all }}
