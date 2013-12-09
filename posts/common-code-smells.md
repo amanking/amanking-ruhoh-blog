@@ -2,7 +2,7 @@
 title: Common code smells
 date: '2013-04-21'
 description:
-tags: [ coding, nugget ]
+tags: [ coding ]
 breadcrumbs: [ index.html ]
 ---
 
