@@ -17,5 +17,6 @@ sidebars :
   searchbox : true
   rss : true
   about : true
+  badges : true
   tags : true
   archives : true
