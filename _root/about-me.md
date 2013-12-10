@@ -3,7 +3,8 @@ title : About Me
 description:
 ---
 
-<img alt="profile picture" src="{{urls.media}}/images/about-me/aman-cover-photo.jpg" style="width: 100%; height: auto; margin: 0px auto 20px auto;">
+<img alt="Aman King" src="{{urls.media}}/images/about-me/aman-cover-photo.jpg" style="width: 100%; height: auto; margin: 0px auto 0px auto;">
+<div class="muted" style="margin: -15px 0px 20px 0px; font-size: small;">Photo Credit: [Akshay Dhavle](http://fotografyc.com/about/)</div>
 
 My name is **Aman King**. I am a technologist at [ThoughtWorks][], working as Lead Consultant.
 [ThoughtWorks]: http://www.thoughtworks.com
@@ -22,6 +23,5 @@ Find me at:
 * [BitBucket](http://bitbucket.org/{{data.author.bitbucket}})
 * [GitHub](http://github.com/{{data.author.github}})
 * [SlideShare](http://www.slideshare.net/{{data.author.slideshare}})
-* [ThoughtWorks](http://join.thoughtworks.com/profiles/aman-king)
 
 Email me at *my last name @ my full name dot com*
