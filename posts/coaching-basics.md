@@ -19,7 +19,7 @@ Comparatively, terms like *[Refactoring][]* and *[YAGNI][]* are recently invente
 That said, there have been attempts to describe coaching better, acknowledging the wide spectrum it could cover, and yet putting some boundaries to it.
 
 My personal view on the term is still evolving despite having played the Agile Coach role. So far I've kept it simple:
-> It is not classroom training; it is interpersonal; it creates awareness in individuals and teams; it is more about asking than telling.
+> Coaching is not classroom training; it is interpersonal; it creates awareness in individuals and teams; it is more about asking than telling.
 
 Check these links for less *fuzzy* definitions:
 
