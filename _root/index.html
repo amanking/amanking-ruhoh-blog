@@ -6,12 +6,17 @@ without_text_wrap: true
 
 {{# posts.all }}
   <div class="post summary">
-    <div class="text">
-      <h1 class="title"><a href="{{url}}">{{title}}</a></h1>
-      <div class="date muted">{{date}}</div>
-
-      <div class="content">
-        {{{ summary }}}
+    <div class="page-header text">
+      <h1 class="title"><a href="{{url}}">{{ title }}</a></h1>
+      <div class="muted">
+        <span>{{ date }}</strong>
+      </div>
+    </div>
+    <div class="post-full">
+      <div class="text">
+        <div class="content">
+          {{{ summary }}}
+        </div>
       </div>
     </div>
     <div class="controls clearfix">
