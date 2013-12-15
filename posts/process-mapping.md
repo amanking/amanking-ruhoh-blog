@@ -18,7 +18,7 @@ Now you will want to know more about what feeds into an iteration and how, and w
 
 Take a pic of the process map you've come up with, and take it off the board. Keep the stickies handy though. Schedule an hour-long meeting with those roles who'd be aware of these steps at a high level. Typically it is a Project Manager, a Tech Lead, or the Product Owner. Repeat the above process in front of them (using your earlier stickies) but clearly call out every addition you make to the process map. Give them a chance to react at every step, getting either validation or corrections from them. Annotate the flow or the stickies themselves with any details you get. For the gaps or the big picture (before/after iteration), let them call out the activities and the roles involved (you could capture exact names of people as well). Cross-check with what you'd assumed. For those that match, use your stickies. For those that don't, tear off your sticky and create new ones on the fly. In the end, summarize the map on the board to catch any obvious misses.
 
-<br><img alt="Process Map" src="{{urls.media}}/images/process-mapping/process-map.png"><br>
+<br><img alt="Process Map" src="{{urls.media}}/images/coaching/process-map.png"><br>
 <small class="muted">Sample process map</small>
 
 Keep the map on the board, and show it to team members you had interviewed before. Get their insights about the visual. Mostly it should be a confirmation of the activities depicted. You could also get more details around certain activities. Additionally, you can cross-check different people's viewpoints.
