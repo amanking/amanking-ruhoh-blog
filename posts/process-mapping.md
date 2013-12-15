@@ -6,7 +6,7 @@ tags: [ coaching, nugget ]
 breadcrumbs: [ index.html ]
 ---
 
-After having collected enough information during the assessment period of an [Agile coaching engagement][], especially using [interviews][], you should be in a position to draw a *Process Map* of what you've learnt.
+After having collected enough information during the assessment period of an [Agile coaching engagement][], especially using [interviews][], an Agile Coach should be in a position to draw a *Process Map* of whatever has been discovered.
 [Agile coaching engagement]:/agile-coaching-engagements
 [interviews]:/assessment-interviews
 
