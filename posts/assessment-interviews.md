@@ -32,4 +32,9 @@ Start simple by asking about the person's background in brief, typically around 
 Scribbling on a notepad may not feel like an overhead but cleaning up your notes to put in a Word document or a wiki page might seem tiresome. But you will thank yourself later for doing so. I am surprised how often I can't read my own handwriting just a few days later. Also, searching for something specific in a physical notepad is not as quick as one might imagine. Typing out the notes electronically is also an opportunity to structure the observations better. This is when you can collate information in a role-specific manner rather than as individual interviews. You may start to see patterns. These will feed into the later phases of assessment, ie, highlighting bottlenecks and challenges, and making recommendations.
 
 <br>
-Here is a [sample document]({{urls.media}}/docs/sample-assessment-interview-notes.pdf).
+Here is a [sample document]({{urls.media}}/docs/sample-assessment-interview-notes.pdf). And below are links on related skills:
+
+* [Active listening skills](http://www.mindtools.com/CommSkll/ActiveListening.htm)
+* [Active listening signs](http://www.skillsyouneed.com/ips/active-listening.html)
+* [Questioning](http://www.skillsyouneed.com/ips/questioning.html)
+* [W.A.I.T.](http://pagilista.blogspot.co.uk/2012/04/wait-crucial-consulting-advice.html)
