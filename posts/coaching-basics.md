@@ -1,6 +1,6 @@
 ---
 title: Coaching Basics
-date: '2013-12-09'
+date: '2013-12-10'
 description:
 tags: [ coaching, nugget ]
 breadcrumbs: [ index.html ]

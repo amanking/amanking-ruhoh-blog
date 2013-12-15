@@ -1,6 +1,6 @@
 ---
 title: Agile Coaching Engagements
-date: '2013-12-15'
+date: '2013-12-12'
 description:
 tags: [ coaching, nugget ]
 breadcrumbs: [ index.html ]
