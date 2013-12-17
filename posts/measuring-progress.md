@@ -8,9 +8,10 @@ breadcrumbs: [ index.html ]
 
 > *"If you can not measure it, you can not improve it."*
 
-[Lord Kelvin][] is accredited with the above quote. He was not talking about Agile software development but he was probably on to *continuous improvement*. The latter is integral to the former.
+[Lord Kelvin][] is accredited with the above quote. He was not talking about Agile software development but he was probably on to *continuous improvement*. The latter is [integral][] to the former.
 
 [Lord Kelvin]:http://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin
+[integral]:http://agilemanifesto.org/principles.html
 
 A positive change on a metric can be an *indicator* of progress or improvement. It is not a guarantee of progress but an indicator. Perhaps if we combine different metrics, all indicating progress on interconnected concepts, we can have higher confidence that there is improvement.
 
