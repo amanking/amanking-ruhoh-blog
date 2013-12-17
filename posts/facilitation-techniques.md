@@ -2,7 +2,7 @@
 title: Facilitation Techniques
 date: '2013-12-16'
 description:
-tags:
+tags: [ coaching, nugget ]
 breadcrumbs: [ index.html ]
 ---
 
