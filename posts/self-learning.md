@@ -27,7 +27,10 @@ Additionally what I follow is the [Princeton Model][] of learning:
 
 What I have also seen encourage self-learning in teams is to throw challenges at them, and see them cope with it by upgrading their skill levels.
 
-<img alt="Challenges vs Skills" src="{{urls.media}}/images/coaching/challenges-vs-skills.png" style="float:left; margin: 0px 20px 20px 0px; width: auto">
+<div style="float:left; margin: 0px 20px 20px 0px; width: auto">
+  <img alt="Challenges vs Skills" src="{{urls.media}}/images/coaching/challenges-vs-skills.png" style="border: 1px solid silver"><br>
+  <small class="muted">Graph introduced to me by <a href="http://www.linkedin.com/pub/julian-parry/3/999/31">Jules Parry</a></small>
+</div>
 
 If an individual is dealing with challenges which are underwhelming, and do not require full utilization of existing skills, the individual gets bored or complacent. If, however, the individual is put up with overwhelming challenges, the individual will experience some frustration or stress, and will either try to reduce the challenges or will learn skills appropriate to overcome the challenges. If steered toward the latter behavior, the person grows in competence.
 
