@@ -15,6 +15,7 @@
   margin: 20px 0px;
 }
 .post.summary .controls {
+  clear:both;
   padding-bottom: 10px;
 }
 .post.summary .controls .tag_box {
