@@ -23,18 +23,18 @@ The idea is simple: you got some numbers when you started the engagement with an
 Beyond this obvious approach to metrics, I want to call out some gotchas, basically some numbers that could confuse you and your stakeholders at first look!
 
 #### Sample Case Study 1
-During assessment you measure Defect Count within Iteration, ie, the number of defects found by QA for the Iteration's stories within the Iteration itself. You find it to be 10. After active coaching, let's say you expected a decrease in defects. Turns out the number has increased to 15!
+During assessment you measure Defect Count within Iteration, ie, the number of defects found by QA for the iteration's stories within the iteration itself. You find it to be 10. After active coaching, let's say you expected a decrease in defects. Turns out the number has increased to 15!
 
 You and your stakeholders may end up asking: what Agile Coaching have we done that actually led to an increase in defects?!
 
 Answer: Earlier the team's process and practices were such that a high number of defects were actually slipping through. These were caught at later stages, unfortunately, mostly in production by end users. By improving on the processes and practices, the team is now catching defects earlier. With a clearer view on quality, the team is ready to focus on these concern areas better.
 
 #### Sample Case Study 2
-Consider per Iteration, the % of stories that have automated tests. During assessment of a team which had started some Agile practices, let's say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it's 35%!!
+Consider per iteration, the % of stories that have automated tests. During assessment of a team which had started some Agile practices, let's say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it's 35%!!
 
 What happened?! Was the team doing better off on their own, before Agile Coaching?
 
-No. The last Iteration we measured just happened to be during Christmas time, when most of the team was on leave, and most of the work happened to be spikes or proof of concept, done in a temporary code repository, in preparation for a new features coming in the new year backed by a fresh tech stack!
+No. The last iteration we measured just happened to be during Christmas time, when most of the team was on leave, and most of the work happened to be spikes or proof of concept, done in a temporary code repository, in preparation for a new features coming in the new year backed by a fresh tech stack!
 
 #### Takeaway
 We can see that relying on simple number comparisons can throw us off, leading us to wrong conclusions. I've called this out before, and will repeat: metrics are simply indicators, not guarantees, and should be supported with subjectivity. That said, numbers can still be useful. In cases like above, when the results seem surprising, consider these approaches:
