@@ -32,7 +32,7 @@ Answer: Earlier the team's process and practices were such that a high number of
 #### Sample Case Study 2
 Consider per iteration, the % of stories that have automated tests. During assessment of a team which had already started some Agile practices, let's say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it's 35%!!
 
-What happened?! Was the team doing better off on their own, before Agile Coaching?
+What happened?! Was the team better off on their own, before Agile Coaching?
 
 No. The last iteration we measured just happened to be during Christmas time, when most of the team was on leave, and most of the work happened to be spikes or proof of concept, done in a temporary code repository, in preparation for a new features coming in the new year backed by a fresh tech stack!
 
