@@ -51,7 +51,7 @@ To capture team skills improvement, and general shifts in mindset, use *surveys*
 As they say, *a picture is worth a thousand words*. Feel free to include pictures of team stand-ups, retrospective stickies, information radiators, etc, in the Benefits document. Compared to dry numbers, pictures make the entire engagement seem more real and worthwhile.
 
 ### Success Stories
-Speaking of making things seem more real, try to weave the team's journey on the Agile path into a clear-to-understand *story*, of where we began, what all we tried, successes and failures, and eventual sustenance. You may represent these on a timeline or simply as bulleted list of highlights.
+Speaking of making things seem more real, try to weave the team's journey on the Agile path into a clear-to-understand *story*, covering where we began, what all we tried, successes and failures, and eventual sustenance. You may represent these on a timeline or simply as bulleted list of highlights.
 
 ### Next Steps
 You can end a Benefits report with a *Next Steps* section. This should cover recommendations on what the team, the department, and the organization should focus on next, so that even without formal Agile Coaching, sustenance is continued, learnings are shared, and further improvements happen in creative and innovative ways, not just reactive.
