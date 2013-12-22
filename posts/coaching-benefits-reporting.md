@@ -34,7 +34,7 @@ Consider per iteration, the % of stories that have automated tests. During asses
 
 What happened?! Was the team better off on their own, before Agile Coaching?
 
-No. The last iteration we measured just happened to be during Christmas time, when most of the team was on leave, and most of the work happened to be spikes or proof of concept, done in a temporary code repository, in preparation for a new features coming in the new year backed by a fresh tech stack!
+No. The last iteration we measured just happened to be during Christmas time, when most of the team was on leave, and the work was mostly spikes or proof of concept, done in a separate code repository, in preparation for a new feature that would be backed by a fresh tech stack!
 
 #### Takeaway
 We can see that relying on simple number comparisons can throw us off, leading us to wrong conclusions. I've called this out before, and will repeat: metrics are simply indicators, not guarantees, and should be supported with subjectivity. That said, numbers can still be useful. In cases like above, when the results seem surprising, consider these approaches:
