@@ -6,7 +6,7 @@ tags: [ coaching, nugget ]
 breadcrumbs: [ index.html ]
 ---
 
-Nearing the end of any [Agile Adoption][] engagement, the client stakeholder will start wondering about the benefits received from coaching. This may be for their own curiosity, to justify ROI to their bosses, or simply to show off their initiatives to peers!
+Nearing the end of any [Agile Adoption][] engagement, client stakeholders will start wondering about the benefits received from coaching. This may be for their own curiosity, to justify ROI to their bosses, or simply to show off their initiatives to peers!
 
 [Agile Adoption]:/agile-coaching-engagements
 
