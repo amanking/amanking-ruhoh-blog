@@ -30,7 +30,7 @@ You and your stakeholders may end up asking: what Agile Coaching have we done th
 Answer: Earlier the team's process and practices were such that a high number of defects were actually slipping through. These were caught at later stages, unfortunately, mostly in production by end users. By improving on the processes and practices, the team is now catching defects earlier. With a clearer view on quality, the team is ready to focus on these concern areas better.
 
 #### Sample Case Study 2
-Consider per iteration, the % of stories that have automated tests. During assessment of a team which had started some Agile practices, let's say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it's 35%!!
+Consider per iteration, the % of stories that have automated tests. During assessment of a team which had already started some Agile practices, let's say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it's 35%!!
 
 What happened?! Was the team doing better off on their own, before Agile Coaching?
 
