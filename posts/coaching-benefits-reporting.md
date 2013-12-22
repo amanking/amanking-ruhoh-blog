@@ -39,10 +39,10 @@ No. The last iteration we measured just happened to be during Christmas time, wh
 #### Takeaway
 We can see that relying on simple number comparisons can throw us off, leading us to wrong conclusions. I've called this out before, and will repeat: metrics are simply indicators, not guarantees, and should be supported with subjectivity. That said, numbers can still be useful. In cases like above, when the results seem surprising, consider these approaches:
 
-* Use complementary metrics (eg. Use Defect Count per Environment in addition to Defect Count within Iteration)
+* Use complementary metrics (eg. Defect Count per Environment in addition to Defect Count within Iteration)
 * Use a Trend Graph instead of a Before/After comparison
 * Use a mean or average value over multiple recent iterations instead of just the latest numbers
-* Present ratios or percentages along with the absolute numbers, not in isolation (eg. 7% coverage increase meant ~6000 LOC in a huge legacy code base)
+* Present ratios or percentages along with the absolute numbers, not in isolation (eg. a seemingly low 7% coverage increase meant a substantial ~6000 LOC coverage improvement in a huge legacy code base)
 
 ### Surveys & Feedback Forms
 To capture team skills improvement, and general shifts in mindset, use *surveys* that have a mix of subjective and objective type of questions. You may have conducted such surveys during assessment, and you could conduct a similar one towards the end of the engagement. Sometimes people challenge if certain aspects of team behaviour can be tied to coaching efforts, claiming those changes may have happened without coaching too. While this may be true, collecting specific *coaching-related feedback* can help evaluate the contribution of coaching to such behavioural changes. Such feedback may also be collected using surveys in addition to in-person feedback. It is important to clarify that the feedback is for gauging what worked and what could be improved, and that honest answers will not reflect badly on the Coach in any way.
