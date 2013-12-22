@@ -53,7 +53,7 @@ As they say, *a picture is worth a thousand words*. Feel free to include picture
 ### Success Stories
 Speaking of making things seem more real, try to weave the team's journey on the Agile path into a clear-to-understand *story*, of where we began, what all we tried, successes and failures, and eventual sustenance. You may represent these on a timeline or simply as bulleted list of highlights.
 
-### Next steps
+### Next Steps
 You can end a Benefits report with a *Next Steps* section. This should cover recommendations on what the team, the department, and the organization should focus on next, so that even without formal Agile Coaching, sustenance is continued, learnings are shared, and further improvements happen in creative and innovative ways, not just reactive.
 
 <br>
