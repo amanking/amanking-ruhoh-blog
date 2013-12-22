@@ -24,7 +24,7 @@ professional_white:
 posts:
   sort: ["date", "desc"]
   permalink: "/:title/"
-  summary_lines: 15
+  summary_lines: 6
   latest: 5
   rss:
     enable: true
@@ -48,7 +48,7 @@ posts:
 
 pages:
   layout: default
-  summary_lines: 15
+  summary_lines: 6
   rss:
     enable: false
   paginator:
