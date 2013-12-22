@@ -32,7 +32,7 @@ What I have also seen encourage self-learning in teams is to throw challenges at
   <small class="muted">Graph introduced to me by <a href="http://www.linkedin.com/pub/julian-parry/3/999/31">Jules Parry</a></small>
 </div>
 
-If an individual is dealing with challenges which are underwhelming, and do not require full utilization of existing skills, the individual gets bored or complacent. If, however, the individual is put up with overwhelming challenges, the individual will experience some frustration or stress, and will either try to reduce the challenges or will learn skills appropriate to overcome the challenges. If steered toward the latter behavior, the person grows in competence.
+If an individual is dealing with challenges which are underwhelming, and do not require full utilization of existing skills, the individual gets bored or complacent. If, however, the individual is put up with overwhelming challenges, the individual will experience some frustration or stress, and will either try to reduce the challenges or will learn skills appropriate to overcome the challenges. If steered toward the latter behaviour, the person grows in competence.
 
 <div style="clear:both"></div>
 These are some of the ways in which self-learning can take place in individuals and teams. They are effective tools to use during active coaching, to make a team reach levels of sustenance. This process may lead some individuals down the path to [self-discovery][].
