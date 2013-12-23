@@ -6,7 +6,7 @@ tags: [ coaching, nugget ]
 breadcrumbs: [ index.html ]
 ---
 
-*Self-discovery* is important for an individual to understand oneself better, and to continuously grow or evolve. While important for one's personal life, it is also applicable to one's professional life.
+*Self-discovery* is important for an individual to understand oneself better, and to continuously grow or evolve. While useful for one's personal life, it is also applicable to one's professional life.
 
 In [coaching][], one of the goals is to aid individuals to gain better awareness of their own potential. While one way to address this is to provide continuous feedback, it additionally helps if individuals are enabled to learn more about themselves on their own.
 
