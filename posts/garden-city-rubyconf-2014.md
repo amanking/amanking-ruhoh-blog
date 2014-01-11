@@ -1,5 +1,5 @@
 ---
-title:
+title: Garden City RubyConf 2014
 date: '2014-01-11'
 description:
 tags: [event,conference,slides,ruby]
