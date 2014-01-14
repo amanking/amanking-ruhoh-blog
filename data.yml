@@ -11,6 +11,7 @@ author :
 
 navigation :
   - index.html
+  - publications.md
   - about-me.md
 
 sidebars :
