@@ -12,6 +12,7 @@ author :
 navigation :
   - index.html
   - publications.md
+  - talks.md
   - about-me.md
 
 sidebars :
