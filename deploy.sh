@@ -1,5 +1,5 @@
 status=`git status | head -2 | tail -1`
-if [ "nothing to commit (working directory clean)" != "$status" -a "-f" != "$1" ]; then
+if [ "$status" != "nothing to commit, working directory clean" -a "-f" != "$1" ]; then
   echo "ERROR: Please deploy only on a clean working directory that has been pushed"
   exit 1
 fi
