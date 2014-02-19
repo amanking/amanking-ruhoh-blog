@@ -15,9 +15,9 @@ Googling for "[tips for presentations][]" will give you a lot of useful links. I
 
 #### Font & Colours
 * *Do not use low contrast colours.* Especially between the slide background and the text. Audiences at any distance, close or far, will have difficulty reading your slides if you choose an Emacs-style scheme. I typically prefer a simple white background and black text, with some red or blue thrown in for effect.
-* *Use less text. But large font size.* Keeps the audience focused on you. But also makes your slide readable from a distance. Text in small font is worse than no text at all.
-* *Avoid complex diagrams.* Labels should be in large fonts. The audience should be able to comprehend the diagram quickly and without hurting their eyes.
-* *Use safe colours for text and diagrams.* Basically distinct shades that have a good chance of being projected correctly. Some colours on your monitor look completely different on a projected screen. Subtle colour variations get lost when projected, so do not rely on those.
+* *Use less text. But large font size.* Keeps the audience focused on you. But also makes your slide readable from a distance. No text is better than text in small font.
+* *Avoid complex diagrams.* Have labels in a large font. The audience should be able to comprehend the diagram quickly and without hurting their eyes.
+* *Use safe colours for text and diagrams.* Basically common primary colours that have a good chance of being projected correctly. Some colours on your monitor look very different on a projected screen. Subtle colour variations get lost when projected, so do not rely on those.
 
 #### Code snippets
 * *Adjust your editor's look and feel* before taking a screenshot of code snippets. Choose a white background with dark text, and make the font size large.
