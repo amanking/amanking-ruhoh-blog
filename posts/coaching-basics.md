@@ -8,10 +8,10 @@ breadcrumbs: [ index.html ]
 
 The term *Coaching* is overloaded.
 
-Comparatively, terms like *[Refactoring][]* and *[YAGNI][]* are recently invented. But despite having had clear definitions to start with, these words still suffer from [malapropism][].
+Comparatively, terms like *[Refactoring][]* and *[YAGNI][]* are recently invented. But despite having had clear definitions to start with, these words still suffer from [semantic diffusion][].
 [refactoring]:http://www.refactoring.com/
 [YAGNI]:http://c2.com/cgi/wiki?YouArentGonnaNeedIt
-[malapropism]:http://martinfowler.com/bliki/RefactoringMalapropism.html
+[semantic diffusion]:http://martinfowler.com/bliki/SemanticDiffusion.html
 
 *Coaching* is a plain English word, around since ages. It is not surprising that its definition in the professional world remains open. This is evident from its [Wikipedia page][].
 [Wikipedia page]:http://en.wikipedia.org/wiki/Coaching
