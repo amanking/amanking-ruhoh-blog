@@ -20,7 +20,7 @@ During the assessment week of an [Agile coaching engagement][], the goal is to l
 
 It is important to remain objective while making observations, and to not fall into the temptation of drawing conclusions or making recommendations. The latter is needed but should come towards the end of the assessment when holistic information is available.
 
-One way to get visibility into the above aspects is conducting interviews of team members. We need not talk to everyone but only a representative sample (perhaps 1-2 individuals) from each role. This should be complemented with first-hand observation of how they work. Here is a suggestion of how you could go about this activity.
+One way to get visibility into the above aspects is conducting interviews of team members. We need not talk to everyone but only a representative sample from each role. This should be complemented with first-hand observation of how they work. Here is a suggestion of how you could go about this activity.
 
 ### Interview preparation
 Inform the Project Manager or equivalent a day or two in advance about the interviews you are planning to do. Learn about the various roles in the team, and ask the PM to inform team members to make time for the interview, which could last anywhere between 30 mins to an hour. It is usually a good idea to not conduct the interviews in a meeting room but at the desk of the individual. You should set up a time beforehand so that the interviewee is not distracted during the interview. Based on any insights already shared with you about the team's current context, make a list of areas you want to specifically ask about. Some of these will be role-specific, and some general.
