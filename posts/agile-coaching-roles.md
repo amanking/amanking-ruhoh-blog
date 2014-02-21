@@ -9,7 +9,7 @@ breadcrumbs: [ index.html ]
 To me, [Coaching][] is about getting the most out of individuals or teams by raising their awareness levels, about their current environment, about the environment outside theirs, and most important of all, about their own potential. This is done mostly by asking them the right questions, and not by providing them ready-made answers.
 [Coaching]:/coaching-basics
 
-My definition of an *Agile Coach*, on the other hand, is less restrictive. As an Agile Coach, coaching is my primary *modus operandi*. But there are times when I make recommendations based on my practitioner background. I also complement coaching with aspects of mentoring and training. For example, relating personal experiences and sharing useful resources can increase someone's curiosity and give them a clear direction. Conducting a workshop can help kickstart a group on practices like TDD and Refactoring.
+My definition of an *Agile Coach* is even less restrictive. As an Agile Coach, coaching is my primary *modus operandi*. But there are times when I make recommendations based on my practitioner background. I also complement coaching with aspects of mentoring and training. For example, relating personal experiences and sharing useful resources can increase someone's curiosity and give them a clear direction. Conducting a workshop can help kickstart a group on practices like TDD and Refactoring.
 
 Even within the scope of Agile Coaching, I have been exposed to a variety of roles.
 
