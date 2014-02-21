@@ -6,6 +6,17 @@ tags: [ coaching, nugget ]
 breadcrumbs: [ index.html ]
 ---
 
+<style>
+#metric-example {
+  border: 1px solid black;
+}
+#metric-example th, #metric-example td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+</style>
+
 > *"If you can not measure it, you can not improve it."*
 
 [Lord Kelvin][] is accredited with the above quote. He was not talking about Agile software development but he was probably on to *continuous improvement*. The latter is [integral][] to the former.
@@ -29,14 +40,18 @@ Let us bring in another metric: Avg Defect Count per Iteration. Let's say Team A
 
 Looking at this:
 
-<table border="1">
-  <tr>
-      <th>Team</th>
-      <th>Coverage - Before</th>
-      <th>Avg Defect Count - Before</th>
-      <th>Coverage - After</th>
-      <th>Avg Defect Count - After</th>
-  </tr>
+<table id="metric-example">
+    <tr>
+        <th rowspan="2">Team</th>
+        <th colspan="2">Before</th>
+        <th colspan="2">After</th>
+    </tr>
+    <tr>
+        <th>Coverage</th>
+        <th>Avg Defect Count</th>
+        <th>Coverage</th>
+        <th>Avg Defect Count</th>
+    </tr>
     <tr>
         <td>A</td>
         <td>2%</td>
