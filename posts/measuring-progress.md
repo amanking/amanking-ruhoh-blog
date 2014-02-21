@@ -66,7 +66,7 @@ The learning is that these numbers are all indicators, and subjectivity has to b
 
 ### Techniques
 
-Having established that, indicators are still necessary and can be an asset during [Agile Coaching][]. If we feel the team is making progress, an improvement in numbers will support that. Corollary is that if numbers show a downward trend, we need to investigate if there are slippages or reasonable circumstances to account for that. For all the following suggestions, what is useful is tracking them over a period of time. Based on context, you could decided how frequently to capture them, and how to analyze the results, and if any action item is needed.
+Having established that, indicators are still necessary and can be an asset during [Agile Coaching][]. If we feel the team is making progress, an improvement in numbers will support that. Corollary is that if numbers show a downward trend, we need to investigate if there are slippages or reasonable circumstances to account for that. For all the following suggestions, what is useful is tracking them over a period of time. Based on context, you should decide how frequently to capture them, and how to analyze the results, and if any action item is needed.
 
 [Agile Coaching]:/agile-coaching-roles
 
