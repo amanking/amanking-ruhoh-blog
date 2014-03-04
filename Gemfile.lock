@@ -1,6 +1,6 @@
 GIT
   remote: /Users/aking/Projects/oss/amanking/github/ruhoh
-  revision: ce9b9db2e2613727f8cf81a574dbf22ae948af14
+  revision: 34dfe0992f0ea96f6cc733fc5e0d3c25560601b8
   specs:
     ruhoh (2.2)
       directory_watcher (~> 1.4.0)
@@ -13,9 +13,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     directory_watcher (1.4.1)
-    mini_portile (0.5.1)
-    mustache (0.99.4)
-    nokogiri (1.6.0)
+    mini_portile (0.5.2)
+    mustache (0.99.5)
+    nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
     rack (1.5.2)
     redcarpet (2.3.0)
