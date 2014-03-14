@@ -25,6 +25,9 @@ Overall, I enjoyed some of the talks and learnt a few things. Also networked wit
 
 All said and done, I am grateful for the speaking opportunity I got. Enabled me to pass on a message that I feel could help others. I definitely look forward to Agile India 2015!
 
+<br>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/31713572?rel=0" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:1px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"><small><strong><a href="https://www.slideshare.net/amanking/from-practitioner-to-coach" title="From Practitioner to Coach" target="_blank">From Practitioner to Coach</a> </strong> from <strong><a href="http://www.slideshare.net/amanking" target="_blank">Aman King</a></strong></small></div>
+
 [Agile India 2014]:http://2014.agileindia.org/
 [AgileIndiaBlog]:http://blog.agileindia.org/2014/03/04/agile-india-2014-conference-final-attendees-profile/
 [From Practitioner to Coach]:http://present.agileindia.org/proposal/16/from-practitioner-to-coach
