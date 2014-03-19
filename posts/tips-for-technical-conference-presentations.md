@@ -10,8 +10,9 @@ Googling for "[tips for presentations][]" will give you a lot of useful links. I
 
 [tips for presentations]:https://www.google.co.in/?#q=tips+for+presentations
 
-#### Resolution
+#### Logistics
 * *Find out about the resolution* supported by the projector at the conference venue. Set your machine's resolution to the same and check your presentation. At times you'll find your text word-wrapped in weird ways or your pictures going outside the screen boundary.
+* *Do not rely on wifi.* Most conference venues arrange for wifi but they are almost always flaky. Avoid running your slides off prezi.com directly. Avoid embedding YouTube streaming videos. Avoid a demo that needs an Internet connection. Keep things local.
 
 #### Font & Colours
 * *Do not use low contrast colours.* Especially between the slide background and the text. Audiences at any distance, close or far, will have difficulty reading your slides if you choose an Emacs-style scheme. I typically prefer a simple white background and black text, with some red or blue thrown in for effect.
