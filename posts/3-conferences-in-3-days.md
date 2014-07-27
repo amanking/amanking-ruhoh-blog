@@ -16,4 +16,4 @@ Next Generation Testing was a 2-day conference. Fellow ThoughtWorker, Vatsala Si
 
 Through these conferences, I also got to experience the food and hospitality of three renowned hotels. I was impressed the most by Marriott, followed by Taj Vivanta, and finally Le Méridien.
 
-Not sure when I'll get to have such a whirlwind conference-attending experience again, but I will look forward to it!
+Not sure when I'll have such a whirlwind conference-attending experience again, but I will look forward to it!
