@@ -2,7 +2,7 @@
 title: Agile India 2014
 date: '2014-03-14'
 description:
-tags: [ coaching, talk ]
+tags: [ coaching, talk, slides ]
 breadcrumbs: [ index.html ]
 ---
 
