@@ -22,6 +22,10 @@ hr {
   background-color: #ddd
 }
 
+h1,h2,h3,h4,h5,h6 {
+  text-align: left;
+}
+
 .page-header {
   border-bottom: none;
 }
@@ -37,6 +41,7 @@ hr {
 .logo .brand {
   color: inherit;
   font-size: 65px;
+  line-height: 50px;
 }
 .logo .brand a {
   color: inherit;
