@@ -14,6 +14,6 @@ breadcrumbs: [ index.html ]
 
 Next Generation Testing was a 2-day conference. Fellow ThoughtWorker, Vatsala Singh, and I had submitted a talk which, fortunately, got scheduled for the *first* day of the conference. This allowed me to attend the JSChannel conference the next day! Something I couldn't have missed as Douglas Crockford, possibly the biggest name in JavaScript circles was giving the opening keynote! JSChannel conference was also a 2-day event which I attended only for the first day. I had to skip the second day to attend SapientNitro's 1-day conference. It was important for me to attend that as I was personally invited by someone with whom I've enjoyed working in the past.
 
-Through these conferences, I also got to experience the food and hospitality of three renowned hotels. I was impressed the most by Marriott, then by Taj Vivanta, and finally Le Méridien.
+Through these conferences, I also got to experience the food and hospitality of three renowned hotels. I was impressed the most by Marriott, followed by Taj Vivanta, and finally Le Méridien.
 
 Not sure when I'll get to have such a whirlwind conference-attending experience again, but I will look forward to it!
