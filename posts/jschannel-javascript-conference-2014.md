@@ -31,5 +31,5 @@ Out of the two parallel workshop tracks, I attended **[Kapil Manchanda][]**'s HT
 
 Day 1 wrapped up with some lightning talks, and networking over tea. Besides a few new acquaintances, I caught up with multiple ThoughtWorkers and ex-ThoughtWorkers, and some people from a previous client-side assignment.
 
-All in all, [JSChannel](http://www.jschannel.com/) continues to be a good conference, worth attending. I would have loved to attend Day 2 but had to attend a [SapientNitro conference](sapientnitro-what-s-next-is-now-2014).
+All in all, [JSChannel](http://www.jschannel.com/) continues to be a good conference, worth attending. I would have loved to attend Day 2 but had to attend a [SapientNitro conference](/sapientnitro-what-s-next-is-now-2014).
 

@@ -34,7 +34,7 @@ Mayank exposed the audience to a new way of executing testing activity by using 
 
 I made many new connections in the conference. The talk I delivered helped the audience relate with a number of Agile Testing Dilemmas that Vatsala and I incorporated into the presentation. People approached me after the talk, and we engaged in interesting conversations related to their current situations. I felt there were many who had embarked on an Agile journey in their organizations but could use further guidance. There are also misinterpretations and misimplementations to be wary of. They could benefit from some sort of [Agile Coaching](agile-coaching-engagements).
 
-I would have loved to attend Day 2 but had to attend the [JSChannel JavaScript conference](jschannel-javascript-conference-2014).
+I would have loved to attend Day 2 but had to attend the [JSChannel JavaScript conference](/jschannel-javascript-conference-2014).
 
 Here are the slides that Vatsala and I had prepared for the conference:
 
