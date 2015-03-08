@@ -1,7 +1,7 @@
 ---
 title: Publications
 date: '2014-01-14'
-description:
+description: Aman King's publications in books and magazines
 tags: []
 ---
 

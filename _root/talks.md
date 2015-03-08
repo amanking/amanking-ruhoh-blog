@@ -1,7 +1,7 @@
 ---
 title: Talks
 date: '2014-01-14'
-description:
+description: Presentations made by Aman King in various conferences
 tags: []
 ---
 

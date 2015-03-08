@@ -1,6 +1,6 @@
 ---
 title : About
-description:
+description: Short bio of Aman King
 ---
 
 <img alt="Aman King" src="{{urls.media}}/images/about-me/aman-cover-photo.jpg" style="width: 100%; height: auto; margin: 0px auto 0px auto;">
