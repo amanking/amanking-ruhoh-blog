@@ -35,6 +35,11 @@ Ruby application that provides Atlassian Bamboo CI build statuses in CruiseContr
 
 ------
 
+**[Mingle Sequence Diagram Plugin](http://mingle-seq-diag.rubyforge.org)** *<small>Creator</small>*<br>
+Plugin for ThoughtWorks Mingle ALM allowing users to draw sequence diagrams within Mingle<br>
+
+------
+
 **[ruhoh](http://ruhoh.com)** *<small>Contributor</small>*<br>
 A static site generator, written in Ruby, to publish content on the Internet<br>
 
