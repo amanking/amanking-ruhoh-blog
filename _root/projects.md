@@ -11,12 +11,12 @@ All my contributions are available at [BitBucket](http://bitbucket.org/{{data.au
 
 
 **[Ruby gems](https://rubygems.org/profiles/amanking)** *<small>Creator</small>*<br>
-Utilities for common needs on Ruby projects<br>
+Utilities for common needs on Ruby projects.<br>
 
 ------
 
 **[JBehave BDD Plugin](http://plugins.jetbrains.com/plugin/5863)** *<small>Creator</small>*<br>
-IntelliJ IDEA plugin for navigation between JBehave plain-text stories and Java code-behind<br>
+IntelliJ IDEA plugin for navigation between JBehave plain-text stories and Java code-behind.<br>
 
 ------
 
@@ -26,12 +26,12 @@ Ruby application that can generate pluggable metrics based on VCS logs. Supports
 ------
 
 **[filtered-feed](https://github.com/amanking/filtered-feed)** *<small>Creator</small>*<br>
-An API to apply filters and transformations on RSS/ATOM feeds, retrieving feed items as JSON<br>
+An API to apply filters and transformations on RSS/ATOM feeds, retrieving feed items as JSON.<br>
 
 ------
 
 **[to_cctray](https://bitbucket.org/amanking/to_cctray)** *<small>Creator</small>*<br>
-Ruby application that provides Atlassian Bamboo CI build statuses in CruiseControl's CCTray XML format, enabling use of many build notification tools like CCMenu and BuildNotify<br>
+Ruby application that provides Atlassian Bamboo CI build statuses in CruiseControl's CCTray XML format, enabling use of many build notification tools like CCMenu and BuildNotify.<br>
 
 ------
 
@@ -41,17 +41,17 @@ Java web application for an in-browser JRuby interpreter (jirb). Built using Dir
 ------
 
 **[Mingle Sequence Diagram Plugin](http://mingle-seq-diag.rubyforge.org)** *<small>Creator</small>*<br>
-Plugin for ThoughtWorks Mingle ALM allowing users to draw sequence diagrams within Mingle<br>
+Plugin for ThoughtWorks Mingle ALM allowing users to draw sequence diagrams within Mingle.<br>
 
 ------
 
 **[ruhoh](http://ruhoh.com)** *<small>Contributor</small>*<br>
-A static site generator, written in Ruby, to publish content on the Internet<br>
+A static site generator, written in Ruby, to publish content on the Internet.<br>
 
 ------
 
 **[IdeaBoardz](http://www.ideaboardz.com)** *<small>Contributor</small>*<br>
-A collaborative brainstorming/retrospective tool, written in Ruby on Rails and BackboneJS<br>
+A collaborative brainstorming/retrospective tool, written in Ruby on Rails and BackboneJS.<br>
 
 ------
 
