@@ -35,6 +35,11 @@ Ruby application that provides Atlassian Bamboo CI build statuses in CruiseContr
 
 ------
 
+**[Jirb Online](https://bitbucket.org/amanking/jirb-online)** *<small>Creator</small>*<br>
+Java web application for an in-browser JRuby interpreter (jirb). Built using Direct Web Remoting (DWR) AJAX library. Live  on [Google App Engine](http://jirbonline.appspot.com).<br>
+
+------
+
 **[Mingle Sequence Diagram Plugin](http://mingle-seq-diag.rubyforge.org)** *<small>Creator</small>*<br>
 Plugin for ThoughtWorks Mingle ALM allowing users to draw sequence diagrams within Mingle<br>
 
