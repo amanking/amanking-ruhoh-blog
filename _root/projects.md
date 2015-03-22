@@ -6,7 +6,7 @@ tags: []
 ---
 I support the notion of Open Source Software. Today almost every project has some open source component in them. It only makes sense that we contribute back whenever we can.
 
-All my contributions are available at [BitBucket](http://bitbucket.org/{{data.author.bitbucket}}) and [GitHub](http://github.com/{{data.author.github}}). Here I mention some of my them.<br><br>
+All my contributions are available at [BitBucket](http://bitbucket.org/{{data.author.bitbucket}}) and [GitHub](http://github.com/{{data.author.github}}). Here I mention some of them.<br><br>
 
 
 
