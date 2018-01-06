@@ -1,5 +1,5 @@
 GIT
-  remote: /Users/aking/Projects/oss/amanking/github/ruhoh
+  remote: /Users/aking/Projects/Pet/ruhoh.rb
   revision: 34dfe0992f0ea96f6cc733fc5e0d3c25560601b8
   specs:
     ruhoh (2.2)
@@ -13,11 +13,11 @@ GEM
   remote: https://rubygems.org/
   specs:
     directory_watcher (1.4.1)
-    mini_portile (0.5.2)
-    mustache (0.99.5)
-    nokogiri (1.6.1)
-      mini_portile (~> 0.5.0)
-    rack (1.5.2)
+    mini_portile2 (2.1.0)
+    mustache (0.99.8)
+    nokogiri (1.6.8.1)
+      mini_portile2 (~> 2.1.0)
+    rack (1.6.8)
     redcarpet (2.3.0)
 
 PLATFORMS
@@ -25,3 +25,6 @@ PLATFORMS
 
 DEPENDENCIES
   ruhoh!
+
+BUNDLED WITH
+   1.16.1
