@@ -1,5 +1,5 @@
-status=`git status | grep "nothing to commit, working directory clean"`
-if [ "$status" != "nothing to commit, working directory clean" -a "-f" != "$1" ]; then
+status=`git status | grep "nothing to commit, working tree clean"`
+if [ "$status" != "nothing to commit, working tree clean" -a "-f" != "$1" ]; then
   echo "ERROR: Please deploy only on a clean working directory that has been pushed"
   exit 1
 fi
